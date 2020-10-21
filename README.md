@@ -1,3 +1,3 @@
 # Frederick-William
-My personal repository
+# My personal repository
 I'm currently studying at Bandung Institute of Technology
